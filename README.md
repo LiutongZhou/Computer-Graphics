@@ -1,2 +1,1 @@
-# Computer-Graphics
-Course Project
+# Computer-Graphics Project
